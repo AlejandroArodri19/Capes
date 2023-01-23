@@ -1,0 +1,40 @@
+*{
+    margin: 0;
+    padding: 0;
+}
+
+div.relative2{
+    position: relative;
+    background-color: yellow;
+    width:60px;
+    height: 40px;
+    bottom: 60px;
+    left: 40px;
+}
+
+div.relative{
+    position: relative;
+    background-color:cornflowerblue;
+    width: 160px;
+    height: 120px;
+    top:40px;
+    left:20px;
+}
+
+div.relative3{
+    position: relative;
+    background-color: mediumspringgreen;
+    width: 60px;
+    height: 40px;
+    top:40px;
+    left: 180px;
+}
+
+div.absolute{
+    position: absolute;
+    background-color:red;
+    width: 160px;
+    height: 120px;
+    top:140px;
+    left:100px;
+}
